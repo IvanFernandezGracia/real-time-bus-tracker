@@ -22,7 +22,7 @@
 
 <!-- Link Live Demo -->
 ## Link Live Demo
-[Live  Real Time Bus Tracker]( https://ivanfernandezgracia.github.io/)
+[Live  Real Time Bus Tracker](https://ivanfernandezgracia.github.io/real-time-bus-tracker/)
 
 <!-- CONTACT -->
 <a name="conta"></a>
