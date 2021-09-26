@@ -10,11 +10,10 @@ In this project, MBTA bus data is used to determine the stops between Harvard an
 
 <!-- ROADMAP -->
 ## RoadMap of Future Improvement
-- [ ] Create a  **Mapbox account** and get the access token
-- [ ] Add the access  **token** to the mapboxgl instance defined in the mapanimation.js
-- [ ] Create a  **marker** and add it to the map using the mapboxgl pre-built functions.
-- [ ] The function move() is called when the button "Show stops between MIT and Harvard" is selected. This is how you can start the  **marker animation **.
-- [ ] Now should be able to see a marker moving from one bus stop to the next on the map.
+- [ ] Modify visual style of the map
+- [ ] Real time zoom in by bus stop
+- [ ] Create a line marking the route
+- [ ] Create a custom marker, such as a bus
 <!-- LICENSE -->
 ## Licence 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) *The MIT License*
