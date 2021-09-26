@@ -10,7 +10,7 @@ In this project, MBTA bus data is used to determine the stops between Harvard an
 
 <!-- ROADMAP -->
 ## RoadMap of Future Improvement
-- [ ] Modify visual style of the map
+- [x] Modify visual style of the map
 - [ ] Real time zoom in by bus stop
 - [x] Create a line marking the route
 - [ ] Create a custom marker, such as a bus
