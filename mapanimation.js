@@ -143,4 +143,6 @@ async function getMatch(coordinates, radius, profile) {
   const coords = matchings[0].geometry;
   // Draw the route on the map
   addRoute(coords);
+    // Draw the route on the map
+
 }
