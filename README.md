@@ -22,8 +22,7 @@ In this project, MBTA bus data is used to determine the stops between Harvard an
 <!-- Video -->
 <a name="video"></a>
 ## Simulation Video
-https://user-images.githubusercontent.com/48660555/134793235-051621c2-2394-4c57-9eae-f3779710f8f0.mp4
-
+https://user-images.githubusercontent.com/48660555/134794724-405b530b-ca3a-436c-ad65-71f9fae2a82e.mp4
 
 <!-- Link Live Demo -->
 ## Link Live Demo
